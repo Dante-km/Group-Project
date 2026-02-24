@@ -1,7 +1,7 @@
 # Group-Project
 # Useful Tools for Students
 
-A collaborative guide by [list all team member names].
+A collaborative guide by [list all team member names]
 
 ## Table of Contents
 - [Introduction](#introduction)
